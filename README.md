@@ -1,5 +1,5 @@
 # GIS_visualizations
-Here are several presentations and images of different projects during my masters and summer school project
+Here are several presentations and images of different projects during my masters and a summer school project
 
 # 📁 **Amazon OBIA** Summer School
 This project was part of a Summer School that I partially participated in 2020 from the University of Salzburg. 
